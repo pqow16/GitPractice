@@ -5,6 +5,7 @@
 
 
 print("New feature 1")
-print("new feature 2")
+print("New feature 2")
+print("A bug fix to feature 2")
 
 
